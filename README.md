@@ -460,10 +460,4 @@ curl -X POST http://localhost:3000/v1/telemetry/ingest \
   }'
 ```
 
-### 4. Query Analytics
-
-```bash
-curl "http://localhost:3000/v1/analytics/performance/VH-001"
-```
-
 ---
